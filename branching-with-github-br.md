@@ -1,6 +1,6 @@
 # Bora's Branching Informational Commands
 
-###V Branching Vocabulary
+###Branching Vocabulary
 - branch = pathway between local and remote
 - checkout = navigating between branches in terminal
 - pull = reconciling a diff from GitHub to our local
